@@ -1,4 +1,9 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=jinhee's%20Github&desc=BackEnd%20Development%20Log&fontAlign=70&Desc&descAlign=83)
+
+
+![bellra-jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellra-jin&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--
 **bellra-jin/bellra-jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
