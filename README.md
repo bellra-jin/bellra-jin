@@ -13,7 +13,7 @@
 
 <div align="center">
   
-![bellra-jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellra-jin&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![bellra-jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellra-jin&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellra-jin&layout=compact)
 </div>
 
 <br>
