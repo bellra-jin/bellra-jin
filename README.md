@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkgom93)](https://solved.ac/bellra-jin)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkgom93)](https://solved.ac/parkgom93)
 </div>
 
 
