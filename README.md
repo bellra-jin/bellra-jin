@@ -1,5 +1,30 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=jinhee's%20Github&desc=BackEnd%20Development%20Log&fontAlign=70&Desc&descAlign=83)
 
+<br>
+
+<div align="center">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bellra-jin)](https://solved.ac/bellra-jin)
+</div>
+
+
+<br>
+
+<div align="center">
+  
+![bellra-jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellra-jin&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</div>
+
+<br>
+
+
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{bellra-jin}"/>
+</a>
+</div>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
@@ -48,19 +73,6 @@
 
 <br>
 
-<div align="center">
-  
-![bellra-jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellra-jin&show_icons=true&theme=transparent)
-</div>
-
-<br>
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-</div>
-
-<br>
 
 <!--
 **bellra-jin/bellra-jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
